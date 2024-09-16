@@ -21,7 +21,7 @@
     "mysql": {
       "database": "livestockmanagementschema",
       "username": "root",
-      "password": "password",
+      "password": "DogCat1029@",
       "host": "localhost",
       "port": "3306"
     },
@@ -47,18 +47,18 @@
     }
   },
   "dependencies": {
-    "electron-squirrel-startup": "^1.0.0",
-    "minimist": "^1.2.0",
-    "mysql": "^2.17.1",
-    "spectre.css": "^0.5.8"
+    "electron-squirrel-startup": "^1.0.1",
+    "minimist": "^1.2.8",
+    "mysql2": "^3.11.2",
+    "spectre.css": "^0.5.9"
   },
   "devDependencies": {
-    "@electron-forge/cli": "^6.0.0-beta.45",
-    "@electron-forge/maker-deb": "^6.0.0-beta.45",
-    "@electron-forge/maker-rpm": "^6.0.0-beta.45",
-    "@electron-forge/maker-squirrel": "^6.0.0-beta.45",
-    "@electron-forge/maker-zip": "^6.0.0-beta.45",
-    "electron": "^6.0.10",
+    "@electron-forge/cli": "^6.4.2",
+    "@electron-forge/maker-deb": "^6.4.2",
+    "@electron-forge/maker-rpm": "^6.4.2",
+    "@electron-forge/maker-squirrel": "^6.4.2",
+    "@electron-forge/maker-zip": "^6.4.2",
+    "electron": "^32.1.0",
     "electron-reload": "^1.5.0"
   }
 }
